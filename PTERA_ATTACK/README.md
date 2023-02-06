@@ -1,6 +1,5 @@
 # PTERA ATTACK
 
-## タイトル画像
 ![TITLE](https://user-images.githubusercontent.com/124578804/216980404-055df726-ccfa-466f-940b-6d8cbfe37329.png)
 
 ## ストーリー
