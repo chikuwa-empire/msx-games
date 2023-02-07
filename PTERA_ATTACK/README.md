@@ -19,7 +19,7 @@
 https://webmsx.org/?ROM=https://github.com/chikuwa-empire/msx-games/raw/main/PTERA_ATTACK/PTEATK01.ROM
 #### フロッピーを使って実機で起動する
 [PTEATK01.DSK](https://github.com/chikuwa-empire/msx-games/raw/main/PTERA_ATTACK/PTEATK01.DSK)
-をダウンロードして、2DDのフロッピーディスクに書き込んでください。<br>
+をダウンロードして、2DDのフロッピーディスクに書き込んでください。2HDのディスクしかない場合は、ライトプロテクトスイッチの反対側の穴をふさげば2DDになります。<br>
 AUTOEXEC.BASでゲームが自動的に起動します。
 
 ## 補足事項
