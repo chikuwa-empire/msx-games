@@ -21,3 +21,6 @@ https://webmsx.org/?ROM=https://github.com/chikuwa-empire/msx-games/raw/main/PTE
 [PTEATK01.DSK](https://github.com/chikuwa-empire/msx-games/raw/main/PTERA_ATTACK/PTEATK01.DSK)
 をダウンロードして、2DDのフロッピーディスクに書き込んでください。<br>
 AUTOEXEC.BASでゲームが自動的に起動します。
+
+## 補足事項
+BGMと効果音はまだありませんので、脳内補完してください。
