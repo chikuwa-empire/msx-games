@@ -22,7 +22,8 @@
 こちらのリンクから直接起動することができます。<br>
 https://webmsx.org/?ROM=https://github.com/chikuwa-empire/msx-games/raw/main/EVIL_DRAGON/EVDRGN01.ROM
 #### フロッピーを使って実機で起動する
-BINがフロッピーから起動できなかったので今回はありません。すみません。
+BINがフロッピーから起動できなかったので今回はありません。すみません。<br>
+追記：16KB超えてるからですね。
 
 ## 補足事項
 BGMと効果音はまだありませんので、脳内補完してください。
