@@ -1,6 +1,6 @@
 # INFINITY CIRCUIT
 
-![TITLE](https://user-images.githubusercontent.com/124578804/218448058-d74bfae3-7420-445b-9c6b-f3cf25b8c92e.png)
+![TITLE](https://user-images.githubusercontent.com/124578804/218919551-32c58928-b8a6-4653-943c-48b7f8566476.png)
 
 ## ストーリー
 マゼンタカラーのレーシングカーに乗り込んだ謎の生物が、世界の果てまでつづくサーキットを駆け抜ける。<br>
@@ -16,9 +16,9 @@
 ## 起動方法
 #### ROMイメージをWebMSXで起動する
 こちらのリンクから直接起動することができます。<br>
-https://webmsx.org/?ROM=https://github.com/chikuwa-empire/msx-games/raw/main/INFINITY_CIRCUIT/INFCIR02.ROM
+https://webmsx.org/?ROM=https://github.com/chikuwa-empire/msx-games/raw/main/INFINITY_CIRCUIT/INFCIR03.ROM
 #### フロッピーを使って実機で起動する
-[INFCIR02.DSK](https://github.com/chikuwa-empire/msx-games/raw/main/INFINITY_CIRCUIT/INFCIR02.DSK)
+[INFCIR03.DSK](https://github.com/chikuwa-empire/msx-games/raw/main/INFINITY_CIRCUIT/INFCIR03.DSK)
 をダウンロードして、2DDのフロッピーディスクに書き込んでください。2HDのディスクしかない場合は、ライトプロテクトスイッチの反対側の穴をふさげば2DDになります。<br>
 AUTOEXEC.BASでゲームが自動的に起動します。
 
@@ -26,6 +26,12 @@ AUTOEXEC.BASでゲームが自動的に起動します。
 BGMと効果音はまだありませんので、脳内補完してください。
 
 ## 変更履歴
+### Release 03 - 2023.02.15
+* スクロール処理をVRAMブロック転送に変更
+* 起動時のPCG初期化処理が高速化
+* 難易度調整のため縁石は乗ってもセーフに変更
+* スコアを獲得するにつれて背景色が変わるように変更
+* 敵車の色が変化するように変更
 ### Release 02 - 2023.02.13
 * 右側の余白をなくしてプレイエリアを広くしました。
 * オイルの横方向の出現位置をランダムにしました。
