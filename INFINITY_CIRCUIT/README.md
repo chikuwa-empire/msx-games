@@ -1,6 +1,7 @@
 # INFINITY CIRCUIT
 
 ![TITLE](https://user-images.githubusercontent.com/124578804/218919551-32c58928-b8a6-4653-943c-48b7f8566476.png)
+<p>デモ映像はこちら→https://youtu.be/VCHR_8IM3IA</p>
 
 ## ストーリー
 マゼンタカラーのレーシングカーに乗り込んだ謎の生物が、世界の果てまでつづくサーキットを駆け抜ける。<br>
