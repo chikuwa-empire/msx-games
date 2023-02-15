@@ -1,7 +1,7 @@
 # MYSTERIOUS ASSAULT SUIT EP.1
 
 ![TITLE](https://user-images.githubusercontent.com/124578804/219031657-4016a143-1906-48ae-a360-e1aa41e4435d.png)
-<p>デモ映像はこちら→</p>
+<p>デモ映像はこちら→https://youtu.be/frO_ZS6uF7Q</p>
 
 ## ストーリー
 マゼンタカラーの謎の生物が、アサルトスーツに身を包み地球への突入を開始した。<br>
