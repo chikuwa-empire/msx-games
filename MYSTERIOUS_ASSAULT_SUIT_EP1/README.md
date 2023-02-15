@@ -17,7 +17,7 @@
 こちらのリンクから直接起動することができます。<br>
 https://webmsx.org/?ROM=https://github.com/chikuwa-empire/msx-games/raw/main/MYSTERIOUS_ASSAULT_SUIT_EP1/MASEP101.ROM
 #### フロッピーを使って実機で起動する
-[MASEP101.DSK](https://webmsx.org/?ROM=https://github.com/chikuwa-empire/msx-games/raw/main/MYSTERIOUS_ASSAULT_SUIT_EP1/MASEP101.DSK)
+[MASEP101.DSK](https://github.com/chikuwa-empire/msx-games/raw/main/MYSTERIOUS_ASSAULT_SUIT_EP1/MASEP101.DSK)
 をダウンロードして、2DDのフロッピーディスクに書き込んでください。2HDのディスクしかない場合は、ライトプロテクトスイッチの反対側の穴をふさげば2DDになります。<br>
 AUTOEXEC.BASでゲームが自動的に起動します。
 
