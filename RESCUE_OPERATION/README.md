@@ -1,7 +1,7 @@
 # RESCUE OPERATION - HIYOKO-CHAN KYUUSHUTSU DAI SAKUSEN
 
 ![TITLE](https://user-images.githubusercontent.com/124578804/219844915-f604b940-d423-408b-95d1-85750a18c292.png)
-<p>デモ映像はこちら→</p>
+<p>デモ映像はこちら→https://youtu.be/C3EAfWoVzGg</p>
 
 ## ストーリー
 マゼンタカラーの謎の生物が通りがかったとある村で、ヒヨコちゃんの救出を要請された。<br>
