@@ -1,7 +1,7 @@
 # GET READY!
 
 ![TITLE](https://user-images.githubusercontent.com/124578804/221236382-5dd414f3-d7e4-4b5f-a15e-1c92063eb030.png)
-<p>デモ映像はこちら→</p>
+<p>デモ映像はこちら→https://youtu.be/rjFiP3qSFf0</p>
 
 ## ストーリー
 マゼンタカラーの謎の生物がファンタジーゾーンで大暴れ。<br>
