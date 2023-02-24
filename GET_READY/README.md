@@ -21,5 +21,5 @@
 https://webmsx.org/?ROM=https://github.com/chikuwa-empire/msx-games/raw/main/GET_READY/GETRDY01.ROM
 
 ## 補足事項
-今回から効果音を付けました。
+今回から効果音を付けました。<br>
 BGMはまだありませんので、脳内補完してください。
