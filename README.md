@@ -6,4 +6,5 @@
 1. [RESCUE OPERATION](https://github.com/chikuwa-empire/msx-games/tree/main/RESCUE_OPERATION)　横スクロールアクションゲームです。
 1. [OKUSUREMINDER](https://github.com/chikuwa-empire/msx-games/tree/main/OKUSUREMINDER)　お薬飲み忘れ防止アプリです。
 1. [HITORIDE PONG](https://github.com/chikuwa-empire/msx-games/tree/main/HITORIDE_PONG)　ひとりで集中して楽しむPONGです。
+1. [GET READY!](https://github.com/chikuwa-empire/msx-games/tree/main/GET_READY)　疑似3Dシューティングゲームです。
 1.
