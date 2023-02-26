@@ -7,4 +7,5 @@
 1. [OKUSUREMINDER](https://github.com/chikuwa-empire/msx-games/tree/main/OKUSUREMINDER)　お薬飲み忘れ防止アプリです。
 1. [HITORIDE PONG](https://github.com/chikuwa-empire/msx-games/tree/main/HITORIDE_PONG)　ひとりで集中して楽しむPONGです。
 1. [GET READY!](https://github.com/chikuwa-empire/msx-games/tree/main/GET_READY)　疑似3Dシューティングゲームです。
+1. [DANCING DEFENSE](https://github.com/chikuwa-empire/msx-games/tree/main/DANCING_DEFENSE)　ダンサーがエイリアンに立ち向かうゲームです。
 1.
