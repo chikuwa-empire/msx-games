@@ -21,7 +21,7 @@
 ## 起動方法
 #### ROMイメージをWebMSXで起動する
 こちらのリンクから直接起動することができます。<br>
-https://webmsx.org/?MACHINE=MSX1J&ROM=https://github.com/chikuwa-empire/msx-games/raw/main/NAZO_NO_NINJA_MOMOMARU_KUN/NNMMMR01.ROM
+https://webmsx.org/?MACHINE=MSX1J&ROM=https://github.com/chikuwa-empire/msx-games/raw/main/NAZO_NO_NINJA_MOMOMARU_KUN/NNMMMR02.ROM
 
 ## 補足事項
 がんばってBGMと効果音を入れました。
