@@ -1,6 +1,6 @@
 # 謎の忍者 モモ丸くん (MYSTERIOUS NINJA MOMOMARU-KUN)
 
-![TITLE](https://user-images.githubusercontent.com/124578804/223414183-b174671f-076a-4458-8196-ac0f73e23b6e.png)
+![TITLE](https://user-images.githubusercontent.com/124578804/223649858-49351efe-d674-4774-8b1f-457dfe331408.png)
 <p>デモ映像はこちら→https://youtu.be/mjhSWNfNMz4</p>
 
 ## ストーリー
