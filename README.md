@@ -9,4 +9,5 @@
 1. [GET READY!](https://github.com/chikuwa-empire/msx-games/tree/main/GET_READY)　疑似3Dシューティングゲームです。
 1. [DANCING DEFENSE](https://github.com/chikuwa-empire/msx-games/tree/main/DANCING_DEFENSE)　ダンサーがエイリアンに立ち向かうゲームです。
 1. [NAZO NO NINJA MOMOMARU KUN](https://github.com/chikuwa-empire/msx-games/tree/main/NAZO_NO_NINJA_MOMOMARU_KUN)　痛快忍者アクションゲームです。
+1. [MOMOMARU VS AOMARU](https://github.com/chikuwa-empire/msx-games/tree/main/MOMOMARU_VS_AOMARU)　対戦格闘ゲームです。
 1.
