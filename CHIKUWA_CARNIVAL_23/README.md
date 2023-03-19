@@ -17,9 +17,9 @@ MSX0で持ち寄って、みんなでハイスコアを競いましょう！？
 ## 起動方法
 #### ROMイメージをWebMSXで起動する
 こちらのリンクから直接起動することができます。<br>
-https://webmsx.org/?MACHINE=MSX1J&ROM=https://github.com/chikuwa-empire/msx-games/raw/main/CHIKUWA_CARNIVAL_23/CCRNVL01.ROM
+https://webmsx.org/?MACHINE=MSX1J&ROM=https://github.com/chikuwa-empire/msx-games/raw/main/CHIKUWA_CARNIVAL_23/CCRNVL02.ROM
 #### フロッピーを使って実機で起動する
-[CCRNVL01.DSK](https://github.com/chikuwa-empire/msx-games/raw/main/CHIKUWA_CARNIVAL_23/CCRNVL01.DSK)
+[CCRNVL02.DSK](https://github.com/chikuwa-empire/msx-games/raw/main/CHIKUWA_CARNIVAL_23/CCRNVL02.DSK)
 をダウンロードして、2DDのフロッピーディスクに書き込んでください。2HDのディスクしかない場合は、ライトプロテクトスイッチの反対側の穴をふさげば2DDになります。<br>
 AUTOEXEC.BASでゲームが自動的に起動します。
 
