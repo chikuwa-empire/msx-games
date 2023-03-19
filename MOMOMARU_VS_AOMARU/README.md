@@ -33,7 +33,7 @@ MSX実機のキーボードで身を寄せ合ってプレイすることによ�
 ## 起動方法
 #### ROMイメージをWebMSXで起動する
 こちらのリンクから直接起動することができます。<br>
-https://webmsx.org/?MACHINE=MSX1J&ROM=https://github.com/chikuwa-empire/msx-games/raw/main/MOMOMARU_VS_AOMARU/MMVSAM01.ROM
+https://webmsx.org/?MACHINE=MSX1J&ROM=https://github.com/chikuwa-empire/msx-games/raw/main/MOMOMARU_VS_AOMARU/MMVSAM02.ROM
 
 ## 補足事項
 MSX0では通信対戦にしたいです。
