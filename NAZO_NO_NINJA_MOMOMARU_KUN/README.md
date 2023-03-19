@@ -25,3 +25,8 @@ https://webmsx.org/?MACHINE=MSX1J&ROM=https://github.com/chikuwa-empire/msx-game
 
 ## 補足事項
 がんばってBGMと効果音を入れました。
+
+## 変更履歴
+### Release 03 - 2023.03.19
+* MSX実機で動くようになりました
+* Bボタンの操作をMキーにも割り当てました
