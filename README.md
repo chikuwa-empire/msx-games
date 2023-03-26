@@ -12,4 +12,5 @@
 1. [MOMOMARU VS AOMARU](https://github.com/chikuwa-empire/msx-games/tree/main/MOMOMARU_VS_AOMARU)　対戦格闘ゲームです。
 1. [CHIKUWA CARNIVAL '23](https://github.com/chikuwa-empire/msx-games/tree/main/CHIKUWA_CARNIVAL_23)　ハイスコアを競うシューティングゲームです。
 1. [CHIKUWA PUZZLE](https://github.com/chikuwa-empire/msx-games/tree/main/CHIKUWA_PUZZLE)　ちくわを片付けるゲームです。
+1. [CHIKUWA MUSIC](https://github.com/chikuwa-empire/msx-games/tree/main/CHIKUWA_MUSIC)　MSX0のタッチパネルで楽しむ音ゲーです。パッドでもできます。
 1.
