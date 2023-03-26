@@ -20,6 +20,6 @@ MSX0の優れたタッチパネルを使って音ゲーを楽しみましょう�
 ## 起動方法
 #### MSX-DOSで起動する
 [CMUSIC01.COM](https://github.com/chikuwa-empire/msx-games/raw/main/CHIKUWA_MUSIC/CMUSIC01.COM)をMSX-DOSから実行してください。<br>
-ちくわウォッチ専用ディスクにする場合は[AUTOEXEC.BAT](https://github.com/chikuwa-empire/msx-games/raw/main/CHIKUWA_MUSIC/AUTOEXEC.BAT)をいっしょに入れておくと自動起動します。
+ちくわMUSIC専用ディスクにする場合は[AUTOEXEC.BAT](https://github.com/chikuwa-empire/msx-games/raw/main/CHIKUWA_MUSIC/AUTOEXEC.BAT)をいっしょに入れておくと自動起動します。
 
 ## 変更履歴
