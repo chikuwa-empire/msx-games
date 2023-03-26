@@ -23,6 +23,6 @@ MSX0の優れたタッチパネルを使って音ゲーを楽しみましょう�
 ちくわMUSIC専用ディスクにする場合は[AUTOEXEC.BAT](https://github.com/chikuwa-empire/msx-games/raw/main/CHIKUWA_MUSIC/AUTOEXEC.BAT)をいっしょに入れておくと自動起動します。
 #### ROMイメージをWebMSXで起動する
 こちらのリンクから直接起動することができます。<br>
-https://webmsx.org/?MACHINE=MSX1J&ROM=https://github.com/chikuwa-empire/msx-games/raw/main/CHIKUWA_MUSIC/CMUSIC01.ROM
+https://webmsx.org/?MACHINE=MSX2J&ROM=https://github.com/chikuwa-empire/msx-games/raw/main/CHIKUWA_MUSIC/CMUSIC01.ROM
 
 ## 変更履歴
