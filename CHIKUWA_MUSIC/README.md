@@ -2,7 +2,7 @@
 
 ![TITLE](https://user-images.githubusercontent.com/124578804/227758784-b67052c5-9b06-4c33-9a5f-0554e0ca66b1.png)
 
-<p>デモ映像はこちら→</p>
+<p>デモ映像はこちら→https://youtu.be/bMY2fOtFk-I</p>
 
 ## 概要
 MSX0の優れたタッチパネルを使って音ゲーを楽しみましょう。<br>
