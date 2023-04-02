@@ -20,7 +20,7 @@
 
 ## 起動方法
 #### MSX-DOSで起動する
-[CHIKU101.COM](https://github.com/chikuwa-empire/msx-games/raw/main/CHIKU1GP/CHIKU101.COM)をMSX-DOSから実行してください。<br>
+[CHIKU102.COM](https://github.com/chikuwa-empire/msx-games/raw/main/CHIKU1GP/CHIKU102.COM)をMSX-DOSから実行してください。<br>
 ちく1GP専用ディスクにする場合は[AUTOEXEC.BAT](https://github.com/chikuwa-empire/msx-games/raw/main/CHIKU1GP/AUTOEXEC.BAT)をいっしょに入れておくと自動起動します。
 #### ROMイメージをWebMSXで起動する
 こちらのリンクから直接起動することができます。<br>
