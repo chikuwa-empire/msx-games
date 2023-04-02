@@ -27,5 +27,5 @@
 https://webmsx.org/?MACHINE=MSX2J&ROM=https://github.com/chikuwa-empire/msx-games/raw/main/CHIKU1GP/CHIKU102.ROM
 
 ## 変更履歴
-#### Release 02 - 2023.04.02
+### Release 02 - 2023.04.02
 * 車の向きを変えるようにしました。見た目だけです。
