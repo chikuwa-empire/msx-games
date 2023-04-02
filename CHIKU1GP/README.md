@@ -24,6 +24,8 @@
 ちく1GP専用ディスクにする場合は[AUTOEXEC.BAT](https://github.com/chikuwa-empire/msx-games/raw/main/CHIKU1GP/AUTOEXEC.BAT)をいっしょに入れておくと自動起動します。
 #### ROMイメージをWebMSXで起動する
 こちらのリンクから直接起動することができます。<br>
-https://webmsx.org/?MACHINE=MSX2J&ROM=https://github.com/chikuwa-empire/msx-games/raw/main/CHIKU1GP/CHIKU101.ROM
+https://webmsx.org/?MACHINE=MSX2J&ROM=https://github.com/chikuwa-empire/msx-games/raw/main/CHIKU1GP/CHIKU102.ROM
 
 ## 変更履歴
+2023.04.02 Release 02
+* 車の向きを変えるようにしました。見た目だけです。
