@@ -4,7 +4,6 @@
 1. [INFINITY CIRCUIT](https://github.com/chikuwa-empire/msx-games/tree/main/INFINITY_CIRCUIT)　疾走感はあまりない縦スクロールレースゲームです。
 1. [MYSTERIOUS ASSAULT SUIT EP.1](https://github.com/chikuwa-empire/msx-games/tree/main/MYSTERIOUS_ASSAULT_SUIT_EP1)　落下スクロール敵避けゲームです。
 1. [RESCUE OPERATION](https://github.com/chikuwa-empire/msx-games/tree/main/RESCUE_OPERATION)　横スクロールアクションゲームです。
-1. [OKUSUREMINDER](https://github.com/chikuwa-empire/msx-games/tree/main/OKUSUREMINDER)　お薬飲み忘れ防止アプリです。
 1. [HITORIDE PONG](https://github.com/chikuwa-empire/msx-games/tree/main/HITORIDE_PONG)　ひとりで集中して楽しむPONGです。
 1. [GET READY!](https://github.com/chikuwa-empire/msx-games/tree/main/GET_READY)　疑似3Dシューティングゲームです。
 1. [DANCING DEFENSE](https://github.com/chikuwa-empire/msx-games/tree/main/DANCING_DEFENSE)　ダンサーがエイリアンに立ち向かうゲームです。
@@ -15,4 +14,9 @@
 1. [CHIKUWA MUSIC](https://github.com/chikuwa-empire/msx-games/tree/main/CHIKUWA_MUSIC)　MSX0のタッチパネルで楽しむ音ゲーです。パッドでもできます。
 1. [CHIKU1GP](https://github.com/chikuwa-empire/msx-games/tree/main/CHIKU1GP)　疑似3Dのレーシングゲームです。
 1. [SPACE RESCUE](https://github.com/chikuwa-empire/msx-games/tree/main/SPACE_RESCUE)　4方向スクロールのシューティングゲームです。
+1.
+
+#### ゲームじゃないけど置いてます
+1. [OKUSUREMINDER](https://github.com/chikuwa-empire/msx-games/tree/main/OKUSUREMINDER)　お薬飲み忘れ防止アプリです。
+1. [BGM TSUKURU](https://github.com/chikuwa-empire/msx-games/tree/main/BGM_TSUKURU)　BGMつくるときに使うツールです。
 1.
