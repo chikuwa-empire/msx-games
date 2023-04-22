@@ -14,6 +14,7 @@
 1. [CHIKUWA MUSIC](https://github.com/chikuwa-empire/msx-games/tree/main/CHIKUWA_MUSIC)　MSX0のタッチパネルで楽しむ音ゲーです。パッドでもできます。
 1. [CHIKU1GP](https://github.com/chikuwa-empire/msx-games/tree/main/CHIKU1GP)　疑似3Dのレーシングゲームです。
 1. [SPACE RESCUE](https://github.com/chikuwa-empire/msx-games/tree/main/SPACE_RESCUE)　4方向スクロールのシューティングゲームです。
+1. [MSX04champ](https://github.com/chikuwa-empire/msx-games/tree/main/MSX04CHAMP)　ドラッグレースのゲームです。
 1.
 
 #### ゲームじゃないけど置いてます
