@@ -1,7 +1,7 @@
 # ちくわPUZZLE (CHIKUWA PUZZLE)
 
 ![TITLE](https://user-images.githubusercontent.com/124578804/226267471-1e679e13-b520-44d7-8e9a-58955a3e7410.png)
-<p>デモ映像はこちら→</p>
+<p>デモ映像はこちら→https://youtu.be/X583MCJ1UsA</p>
 
 ## ストーリー
 ちくわを片付けるゲームです。<br>
