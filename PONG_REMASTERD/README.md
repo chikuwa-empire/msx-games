@@ -1,4 +1,4 @@
-# ひとりでPONG! PIXEL REMASTERD EDITION
+# ひとりでPONG! PIXEL REMASTERED EDITION
 
 ![TITLE](https://user-images.githubusercontent.com/124578804/233839947-33904a73-da88-4de5-bf96-1a768fabdcde.png)
 <p>デモ映像はこちら→</p>
