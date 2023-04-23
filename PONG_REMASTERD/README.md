@@ -1,7 +1,7 @@
 # ひとりでPONG! PIXEL REMASTERED EDITION
 
 ![TITLE](https://user-images.githubusercontent.com/124578804/233840662-1eeb37e8-7664-4205-bd23-36241138ddb7.png)
-<p>デモ映像はこちら→</p>
+<p>デモ映像はこちら→https://youtu.be/kuhI8z6BPIQ</p>
 
 ## ストーリー
 個人的にひそかにお気に入りのゲーム、ひとりでPONG!をピクセルリマスターしました。<br>
