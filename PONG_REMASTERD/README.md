@@ -1,6 +1,6 @@
 # ひとりでPONG! PIXEL REMASTERED EDITION
 
-![TITLE](https://user-images.githubusercontent.com/124578804/233839947-33904a73-da88-4de5-bf96-1a768fabdcde.png)
+![TITLE](https://user-images.githubusercontent.com/124578804/233840662-1eeb37e8-7664-4205-bd23-36241138ddb7.png)
 <p>デモ映像はこちら→</p>
 
 ## ストーリー
