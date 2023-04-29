@@ -16,6 +16,7 @@
 1. [SPACE RESCUE](https://github.com/chikuwa-empire/msx-games/tree/main/SPACE_RESCUE)　4方向スクロールのシューティングゲームです。
 1. [MSX04champ](https://github.com/chikuwa-empire/msx-games/tree/main/MSX04CHAMP)　ドラッグレースのゲームです。
 1. [PONG REMASTERED](https://github.com/chikuwa-empire/msx-games/tree/main/PONG_REMASTERD)　ひとりでPONG!のピクセルリマスター版です。
+1. [CHIKUWA TABERU](https://github.com/chikuwa-empire/msx-games/tree/main/CHIKUWA_TABERU)　ちくわをたらふくたべるゲームです。
 1.
 
 #### ゲームじゃないけど置いてます
