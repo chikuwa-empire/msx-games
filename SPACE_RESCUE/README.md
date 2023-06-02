@@ -21,7 +21,7 @@ PAUSEできます。
 ## 起動方法
 #### MSX-DOSで起動する
 [SPCRES01.COM](https://github.com/chikuwa-empire/msx-games/raw/main/SPACE_RESCUE/SPCRES01.COM)をMSX-DOSから実行してください。<br>
-ちく1GP専用ディスクにする場合は[AUTOEXEC.BAT](https://github.com/chikuwa-empire/msx-games/raw/main/SPACE_RESCUE/AUTOEXEC.BAT)をいっしょに入れておくと自動起動します。
+SPACE RESCUE専用ディスクにする場合は[AUTOEXEC.BAT](https://github.com/chikuwa-empire/msx-games/raw/main/SPACE_RESCUE/AUTOEXEC.BAT)をいっしょに入れておくと自動起動します。
 #### ROMイメージをWebMSXで起動する
 こちらのリンクから直接起動することができます。<br>
 https://webmsx.org/?MACHINE=MSX2J&ROM=https://github.com/chikuwa-empire/msx-games/raw/main/SPACE_RESCUE/SPCRES01.ROM
