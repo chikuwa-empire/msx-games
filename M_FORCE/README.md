@@ -3,7 +3,8 @@
 ![m-force_title](https://github.com/chikuwa-empire/msx-games/assets/124578804/4530387b-1c16-4908-ab88-22fc3d388933)
 ![m-force_play](https://github.com/chikuwa-empire/msx-games/assets/124578804/9cfc904d-0038-4280-90da-28107ebacbbd)
 <br>
-![m-force_image](https://github.com/chikuwa-empire/msx-games/assets/124578804/74267440-0695-449f-bd86-2c352278680b)
+![m-force_image](https://github.com/chikuwa-empire/msx-games/assets/124578804/dd0c75c8-323f-4932-a4b9-b023128619fe)
+![m-force_cartridge](https://github.com/chikuwa-empire/msx-games/assets/124578804/eafc5c56-7169-4550-9f6f-c7a56cb4d71e)
 
 
 <p>デモ映像はこちら→https://youtu.be/rZGdWyYRqjs</p>
