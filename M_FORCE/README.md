@@ -32,4 +32,7 @@ M-FORCE専用ディスクにする場合は[AUTOEXEC.BAT](https://github.com/chi
 こちらのリンクから直接起動することができます。<br>
 https://webmsx.org/?MACHINE=MSX2J&ROM=https://github.com/chikuwa-empire/msx-games/raw/main/M_FORCE/MFORCE01.ROM
 
+## 補足事項
+#### 実機で遊ぶ場合は16KB以上のRAMが必要です。ご注意ください。
+
 ## 変更履歴
