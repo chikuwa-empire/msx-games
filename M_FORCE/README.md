@@ -38,5 +38,6 @@ https://webmsx.org/?MACHINE=MSX2J&ROM=https://github.com/chikuwa-empire/msx-game
 #### 実機で遊ぶ場合は16KB以上のRAMが必要です。ご注意ください。
 #### Sofarunでは動きませんでした。NSLOADは動きました。
 #### ゲーム容量の都合でテープには正式に対応していません。ROMイメージを実行可能なテープ音声に変換してくれるAndroidのツール(MSX2CAS)が使えました。
+#### エミュレーターによってはキー同時押しが正しく機能しない場合があります。blueMSXでは斜め下を押しながらスペースが押せませんでした。
 
 ## 変更履歴
