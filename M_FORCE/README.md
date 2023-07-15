@@ -25,14 +25,14 @@
 #### ゲームパッドでのプレイをお勧めします
 
 ## 起動方法
-#### MSX-DOSで起動する
-[MFORCE02.COM](https://github.com/chikuwa-empire/msx-games/raw/main/M_FORCE/MFORCE02.COM)をMSX-DOSから実行してください。<br>
-M-FORCE専用ディスクにする場合は[AUTOEXEC.BAT](https://github.com/chikuwa-empire/msx-games/raw/main/M_FORCE/AUTOEXEC.BAT)をいっしょに入れておくと自動起動します。
 #### ROMイメージでMegaFlashROMやエミュレーターなどで起動する
 [MFORCE02.ROM](https://github.com/chikuwa-empire/msx-games/raw/main/M_FORCE/MFORCE02.ROM)をダウンロードして使用してください。
 #### ROMイメージをWebMSXで起動する
 こちらのリンクから直接起動することができます。<br>
 https://webmsx.org/?MACHINE=MSX2J&ROM=https://github.com/chikuwa-empire/msx-games/raw/main/M_FORCE/MFORCE02.ROM
+#### ディスクイメージをMSX0で起動する
+[MFORCE02.DSK](https://github.com/chikuwa-empire/msx-games/raw/main/M_FORCE/MFORCE02.DSK)をダウンロードしてMSX0のSDカードに入れてください。<br>
+AUTOEXEC.BATでゲームが自動起動します。
 
 ## 補足事項
 * 実機で遊ぶ場合は16KB以上のRAMが必要です。ご注意ください。
@@ -41,6 +41,9 @@ https://webmsx.org/?MACHINE=MSX2J&ROM=https://github.com/chikuwa-empire/msx-game
 * エミュレーターによってはキー同時押しが正しく機能しない場合があります。blueMSXでは斜め下を押しながらスペースが押せませんでした。
 
 ## 変更履歴
+### Release 02(内容変更なし) - 2023.07.15
+* MSX0でも遊びやすいようにMSX-DOS版のディスクイメージを用意しました
+* 西さんから許可いただきましたのでMSXDOS.SYSとCOMMAND.COMも同梱しています
 #### Release 02 - 2023.06.04
 * EASYモードを追加しました。当たり判定に優しさが注入されています。
 * バリアーが長持ちしすぎたので弱体化しました。
