@@ -18,11 +18,15 @@ MSX0の優れたタッチパネルを使って音ゲーを楽しみましょう�
 #### ゲームパッドでも操作できます
 
 ## 起動方法
-#### MSX-DOSで起動する
-[CMUSIC01.COM](https://github.com/chikuwa-empire/msx-games/raw/main/CHIKUWA_MUSIC/CMUSIC01.COM)をMSX-DOSから実行してください。<br>
-ちくわMUSIC専用ディスクにする場合は[AUTOEXEC.BAT](https://github.com/chikuwa-empire/msx-games/raw/main/CHIKUWA_MUSIC/AUTOEXEC.BAT)をいっしょに入れておくと自動起動します。
 #### ROMイメージをWebMSXで起動する
 こちらのリンクから直接起動することができます。<br>
 https://webmsx.org/?MACHINE=MSX2J&ROM=https://github.com/chikuwa-empire/msx-games/raw/main/CHIKUWA_MUSIC/CMUSIC01.ROM
+#### ディスクイメージをMSX0で起動する
+[CMUSIC01.DSK](https://github.com/chikuwa-empire/msx-games/raw/main/CHIKUWA_MUSIC/CMUSIC01.DSK)をダウンロードしてMSX0のSDカードに入れてください。<br>
+AUTOEXEC.BATでゲームが自動起動します。
 
 ## 変更履歴
+### Release 01(内容変更なし) - 2023.07.15
+* MSX0でも遊べるようにMSX-DOS版を用意しました
+* 西さんから許可いただきましたのでMSXDOS.SYSとCOMMAND.COMも同梱しています
+* そのうち曲数をもっと増やします
