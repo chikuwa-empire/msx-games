@@ -1,4 +1,4 @@
-#### MSXで動くゲームを作ったらここに置きます
+#### MSXで動くゲームを作ったらここに置きます。⭐は作者のオススメです。
 1. [PTERA ATTACK](https://github.com/chikuwa-empire/msx-games/tree/main/PTERA_ATTACK)　画面固定型のシューティングゲームです。
 1. [EVIL DRAGON?](https://github.com/chikuwa-empire/msx-games/tree/main/EVIL_DRAGON)　妄想力が求められる超小作ロールプレイングゲームです。
 1. [INFINITY CIRCUIT](https://github.com/chikuwa-empire/msx-games/tree/main/INFINITY_CIRCUIT)　疾走感はあまりない縦スクロールレースゲームです。
@@ -7,17 +7,17 @@
 1. [HITORIDE PONG](https://github.com/chikuwa-empire/msx-games/tree/main/HITORIDE_PONG)　ひとりで集中して楽しむPONGです。
 1. [GET READY!](https://github.com/chikuwa-empire/msx-games/tree/main/GET_READY)　疑似3Dシューティングゲームです。
 1. [DANCING DEFENSE](https://github.com/chikuwa-empire/msx-games/tree/main/DANCING_DEFENSE)　ダンサーがエイリアンに立ち向かうゲームです。
-1. [NAZO NO NINJA MOMOMARU KUN](https://github.com/chikuwa-empire/msx-games/tree/main/NAZO_NO_NINJA_MOMOMARU_KUN)　痛快忍者アクションゲームです。
+1. [NAZO NO NINJA MOMOMARU KUN](https://github.com/chikuwa-empire/msx-games/tree/main/NAZO_NO_NINJA_MOMOMARU_KUN)⭐　痛快忍者アクションゲームです。
 1. [MOMOMARU VS AOMARU](https://github.com/chikuwa-empire/msx-games/tree/main/MOMOMARU_VS_AOMARU)　対戦格闘ゲームです。
 1. [CHIKUWA CARNIVAL '23](https://github.com/chikuwa-empire/msx-games/tree/main/CHIKUWA_CARNIVAL_23)　ハイスコアを競うシューティングゲームです。
 1. [CHIKUWA PUZZLE](https://github.com/chikuwa-empire/msx-games/tree/main/CHIKUWA_PUZZLE)　ちくわを片付けるゲームです。
-1. [CHIKUWA MUSIC](https://github.com/chikuwa-empire/msx-games/tree/main/CHIKUWA_MUSIC)　MSX0のタッチパネルで楽しむ音ゲーです。パッドでもできます。
+1. [CHIKUWA MUSIC](https://github.com/chikuwa-empire/msx-games/tree/main/CHIKUWA_MUSIC)⭐　MSX0のタッチパネルで楽しむ音ゲーです。パッドでもできます。
 1. [CHIKU1GP](https://github.com/chikuwa-empire/msx-games/tree/main/CHIKU1GP)　疑似3Dのレーシングゲームです。
-1. [SPACE RESCUE](https://github.com/chikuwa-empire/msx-games/tree/main/SPACE_RESCUE)　4方向スクロールのシューティングゲームです。
+1. [SPACE RESCUE](https://github.com/chikuwa-empire/msx-games/tree/main/SPACE_RESCUE)⭐　4方向スクロールのシューティングゲームです。
 1. [MSX04champ](https://github.com/chikuwa-empire/msx-games/tree/main/MSX04CHAMP)　ドラッグレースのゲームです。
-1. [PONG REMASTERED](https://github.com/chikuwa-empire/msx-games/tree/main/PONG_REMASTERD)　ひとりでPONG!のピクセルリマスター版です。
+1. [PONG REMASTERED](https://github.com/chikuwa-empire/msx-games/tree/main/PONG_REMASTERD)⭐　ひとりでPONG!のピクセルリマスター版です。
 1. [CHIKUWA TABERU](https://github.com/chikuwa-empire/msx-games/tree/main/CHIKUWA_TABERU)　ちくわをたらふくたべるゲームです。
-1. [M-FORCE](https://github.com/chikuwa-empire/msx-games/tree/main/M_FORCE)　頑張って作った横スクロールシューティングゲームです。
+1. [M-FORCE](https://github.com/chikuwa-empire/msx-games/tree/main/M_FORCE)⭐　頑張って作った横スクロールシューティングゲームです。
 1.
 
 #### ゲームじゃないけど置いてます
