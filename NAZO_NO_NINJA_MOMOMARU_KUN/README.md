@@ -23,7 +23,7 @@
 こちらのリンクから直接起動することができます。<br>
 https://webmsx.org/?MACHINE=MSX1J&ROM=https://github.com/chikuwa-empire/msx-games/raw/main/NAZO_NO_NINJA_MOMOMARU_KUN/NNMMMR04.ROM
 #### ディスクイメージをMSX0で起動する
-[NNMMMR04.DSK](https://webmsx.org/?MACHINE=MSX1J&ROM=https://github.com/chikuwa-empire/msx-games/raw/main/NAZO_NO_NINJA_MOMOMARU_KUN/NNMMMR04.DSK)をダウンロードしてMSX0のSDカードに入れてください。<br>
+[NNMMMR04.DSK](https://github.com/chikuwa-empire/msx-games/raw/main/NAZO_NO_NINJA_MOMOMARU_KUN/NNMMMR04.DSK)をダウンロードしてMSX0のSDカードに入れてください。<br>
 AUTOEXEC.BATでゲームが自動起動します。
 
 ## 補足事項
