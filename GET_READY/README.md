@@ -18,7 +18,7 @@
 ## 起動方法
 #### ROMイメージをWebMSXで起動する
 こちらのリンクから直接起動することができます。<br>
-https://webmsx.org/?ROM=https://github.com/chikuwa-empire/msx-games/raw/main/GET_READY/GETRDY01.ROM
+https://webmsx.org/?MACHINE=MSX1J&ROM=https://github.com/chikuwa-empire/msx-games/raw/main/GET_READY/GETRDY01.ROM
 
 ## 補足事項
 今回から効果音を付けました。<br>
